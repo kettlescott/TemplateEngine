@@ -1,0 +1,4 @@
+firstName=scott
+lastName=wang
+hello=gotit$firstName$lastName$fullName
+fullName=test
