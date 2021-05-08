@@ -36,7 +36,7 @@ public class TemplateParser {
       }
     }
 
-    String file;
+    private String file;
 
     public TemplateParser (String file) throws FileNotFoundException {
       this.file = file ;
